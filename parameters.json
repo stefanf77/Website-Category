@@ -1,0 +1,8 @@
+{
+  "url": "http://shop.panthers.com",
+  "features": {
+    "categories": {
+      "limit": 1
+    }
+  }
+}

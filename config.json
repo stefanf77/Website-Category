@@ -1,0 +1,6 @@
+{
+  "port": 8000,
+  "url": "https://gateway-lon.watsonplatform.net/natural-language-understanding/api/v1/analyze?version=2018-11-16",
+  "apikey": "QIauOuQMIxh4xPeuTEbEGccv0VRgW2lRJs2jsWmnGVoI",
+  "user": "apikey"
+}
